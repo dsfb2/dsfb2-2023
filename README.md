@@ -2,7 +2,7 @@
 Assignments and tutorials for Data Science for Business II (Fall 2023) course @ Aalto University School of Business. 
 
 Assignments and links to Google Colab will become available according to the schedule below. 
-If you prefer to run notebooks locally, you can fork and clone the repo or download the files. For smooth running you can create the virtual environment using the provided `requirements.txt` file. 
+If you prefer to run notebooks locally, you can fork and clone the repo or download the files. For smooth running you can create the virtual environment using the provided [`requirements.txt`]([url](https://github.com/dsfb2/dsfb2-2023/blob/main/requirements.txt)) file. 
 
 
 ## Course Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
